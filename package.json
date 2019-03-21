@@ -1,0 +1,21 @@
+{
+  "name": "xia_y_chatapp",
+  "version": "1.0.0",
+  "description": "social media app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxxxycharlotte/Xia_Y_ChatApp.git"
+  },
+  "author": "Yuchen Xia",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/xxxxycharlotte/Xia_Y_ChatApp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
