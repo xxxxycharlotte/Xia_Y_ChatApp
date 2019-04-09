@@ -12,10 +12,15 @@
   },
   "author": "Yuchen Xia",
   "license": "ISC",
-  
   "homepage": "https://github.com/xxxxycharlotte/Xia_Y_ChatApp#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "randomcolor": "^0.5.4",
     "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-image": "^4.4.1",
+    "gulp-sass": "^4.0.2"
   }
 }
